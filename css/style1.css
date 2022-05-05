@@ -219,10 +219,3 @@ footer {
 .glory {
     background-color: rgba(243, 20, 20, 0.747);
 }
-
-body {
-    background-image: url(../img/censorship.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-}
